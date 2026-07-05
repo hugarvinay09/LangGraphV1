@@ -13,3 +13,5 @@ wheels/
 .env
 .env.*
 .env/*
+.venv-1
+.venv-1/
